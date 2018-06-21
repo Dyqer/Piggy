@@ -24,7 +24,4 @@ security:
 
 spring:
   rabbitmq:
-    host: 114.118.13.147
-    port: 9672
-    username: guest
-    password: qwert54321
+    host: rabbitmq

@@ -20,3 +20,4 @@ server:
   context-path: /accounts
   port: 6000
 
+env: dev
