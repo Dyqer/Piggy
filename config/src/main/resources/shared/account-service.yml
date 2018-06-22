@@ -10,11 +10,11 @@ security:
 spring:
   data:
     mongodb:
-      host: account-mongodb
+      host: 114.118.13.147
       username: user
-      password: ${MONGODB_PASSWORD}
-      database: piggymetrics
-      port: 27017
+      password: qwert54321
+      database: piggy
+      port: 9017
 
 server:
   context-path: /accounts
